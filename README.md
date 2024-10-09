@@ -1,1 +1,1 @@
-# https-github.com-CustomCare-0011-Integra-Query-Reports-Publisher
+# 0011-Integra-Query-Reports-Publisher
